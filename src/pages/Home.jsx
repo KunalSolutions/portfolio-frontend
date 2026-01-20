@@ -7,7 +7,7 @@ import Contact from '../components/Contact'
 const Home = () => {
   return (
     <div>
-        {/* <Header /> */}
+        <Header />
         <HeroSection />
         <Contact />
         {/* <Footer /> */}
