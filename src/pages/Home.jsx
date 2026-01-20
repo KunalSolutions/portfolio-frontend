@@ -1,7 +1,6 @@
 import React from 'react'
-import Header from '../components/header'
+import Header from '../components/Header'
 import HeroSection from '../components/HeroSection'
-import Footer from '../components/Footer'
 import Contact from '../components/Contact'
 
 const Home = () => {
